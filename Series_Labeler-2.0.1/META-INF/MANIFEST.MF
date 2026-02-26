@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Implementation-Title: Series Labeler
+Implementation-Version: 2.0.1
+Archiver-Version: Plexus Archiver
+Built-By: curtis
+Specification-Vendor: Fiji
+Specification-Title: Series Labeler
+Implementation-Vendor-Id: sc.fiji
+Class-Path: ij-1.51h.jar
+Implementation-Date: 2017-04-29T23:04:20-0500
+Implementation-Vendor: Fiji
+Premain-Class: 
+Implementation-Build: 5f027fd99805d91756f3a0e82d7052657b4f8f0e
+Created-By: Apache Maven 3.0.4
+Build-Jdk: 1.8.0_111
+Specification-Version: 2.0.1
+Implementation-URL: https://imagej.net/Series_Labeler
+
