@@ -1,0 +1,20 @@
+Manifest-Version: 1.0
+Implementation-Title: Lasso and Blow Tool
+Package: util
+Implementation-Version: 2.0.2
+Archiver-Version: Plexus Archiver
+Built-By: curtis
+Specification-Vendor: Fiji
+Specification-Title: Lasso and Blow Tool
+Implementation-Vendor-Id: sc.fiji
+Class-Path: fiji-lib-2.1.1.jar ij1-patcher-0.12.5.jar javassist-3.20.0
+ -GA.jar ij-1.51h.jar
+Implementation-Date: 2017-04-29T22:54:17-0500
+Implementation-Vendor: Fiji
+Premain-Class: 
+Implementation-Build: e8223c562f15051d18571ff00f7aed9abc6a67f6
+Created-By: Apache Maven 3.0.4
+Build-Jdk: 1.8.0_111
+Specification-Version: 2.0.2
+Implementation-URL: http://imagej.net/Lasso_and_Blow_Tool
+
